@@ -27,5 +27,4 @@ pretty busy with school, probably wont attribute.
 </strong>
 </pre>
 
-# bruh plz no copy xdxd
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SirloinNet&show_icons=true&theme=gotham" alt="SirloinNet"/>
