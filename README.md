@@ -1,5 +1,5 @@
 <pre>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=F7F7F7&background=484F582A&vCenter=true&random=false&width=510&height=30&lines=%3Cdiv+class%3D%22name%22%3ENetworkingAlek%3C%2Fdiv%3E%3Cdiv+class%3D%22Place%22%3E1%3C%2Fdiv%3E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=F7F7F7&background=484F582A&vCenter=true&random=false&width=510&height=30&lines=%3Cdiv+class%3D%22name%22%3EPopBob%3C%2Fdiv%3E%3Cdiv+class%3D%22Place%22%3E1%3C%2Fdiv%3E" alt="Typing SVG" /></a>
 </pre>
 <pre>
 ┌─(root@PopBob)-[~]
